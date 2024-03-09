@@ -10,4 +10,4 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo"/>
 </p>
 
-<h4 align="center"> Feel free to check out my projects, i post a lot of random shit on here</h4>
+<h4 align="center"> Feel free to check out my projects, i post a lot of random shit on here (sometimes useful) </h4>
